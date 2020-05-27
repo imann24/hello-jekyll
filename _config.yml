@@ -5,7 +5,7 @@ baseurl: ""
 url: ""
 
 # Build settings
-theme: beautiful-jekyll-theme
+theme: jekyll-theme-cayman
 
 navbar-links:
     About: "about"
