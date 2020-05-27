@@ -3,10 +3,9 @@ description: >-
     Welcome to a test Jekyll site
 baseurl: ""
 url: ""
+navbar-links:
+  About: "about"
+  Contact: "contact"
 
 # Build settings
-theme: beautiful-jekyll-theme
-
-navbar-links:
-    About: "about"
-    Contact: "contact"
+remote_theme: daattali/beautiful-jekyll@3.0.0 
