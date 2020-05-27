@@ -1,0 +1,12 @@
+title: Hello Jekyll
+description: >-
+    Welcome to a test Jekyll site
+baseurl: ""
+url: ""
+
+# Build settings
+theme: beautiful-jekyll-theme
+
+navbar-links:
+    About: "about"
+    Contact: "contact"
